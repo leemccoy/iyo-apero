@@ -2,7 +2,7 @@
 title: Career
 description: |
   Some of the places I have worked.
-author: "Lee McCoy"
+author: ""
 show_post_thumbnail: true
 show_author_byline: true
 show_post_date: false

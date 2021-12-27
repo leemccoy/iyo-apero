@@ -1,7 +1,7 @@
 ---
 title: "Biological Science Technician"
 subtitle: "Agricultural Research Service"
-excerpt: "My job here"
+excerpt: "Field ecology research of oyster aquaculture"
 date: 2021-12-27
 author: "Lee McCoy"
 draft: false
@@ -28,33 +28,21 @@ links:
   url: https://education.rstudio.com/blog/2020/07/palmerpenguins-cran/
 ---
 
+{{< figure src="oysteraquaculture.png" alt="Oyster aquaculture ecology" caption="Some of the organisms that impact and are impacted by oyster aquaculture. Invasive species (*Zostera japonica*, *Ocenebra inornata*), pest species (*Neotrypaea californiensis*,*Upogebia pugettensis*) , commercially important species (Salmon, Crab), and protected species (Salmon, *Zostera marina*)." >}}
 
-As an environmental scientist for Battelle...
+We focused on exploring the relationship between oyster aquaculture and coastal ecosystems using habitat and population surveys, mapping, manipulative and observational field and lab experiments, and remote sensing.  I spent a significant portion of my time organizing, summarizing, and analyzing the results of these efforts to promote sustainable and productive aquaculture practices. I also collaborated with Federal, State, and Tribal researchers, oyster farmers, and the general public to set priorities, accomplish research objectives, and share the results of our research.       
+ 
+Primary duties included:  
+*	conducting research on the interaction between oyster aquaculture and burrowing shrimp (pest), seagrass (imperiled), juvenile fish, and crabs (commercially important)
+*	mapping seagrass, burrowing shrimp, sediment characteristics, and oyster aquaculture over multiple years in several west coast estuaries for use in modeling system dynamics
+*	long-term monitoring of burrowing shrimp population extent, population structure, and recruitment
+*	acquiring, managing, analyzing, visualizing, documenting, and distributing spatial data including managing and processing several years of 4-band remote sensing data
+*	modeling the relationship between oyster aquaculture and seagrass to determine aquaculture impacts
+*	preparing and reviewing protocols, analysis processes, and reports 
+*	collaborating with researchers from a variety of government agencies (EPA, USGS, ODFW, WDFW) and universities (Univ. of Washington, Oregon State, Washington State University) 
+*	supervising and training interns, students, and coworkers
+*	planning and conducting field visits, creating work plans, supervising team members, budgeting time and equipment, purchasing, managing, and maintaining equipment and supplies
 
-{{< figure src="css-grid-cover.png" alt="Traditional right sidebar layout" caption="A visual example of the traditional right sidebar layout" >}}
 
 ---
 
-### <dfn title="Ermahgerd is a humorous version of the phrase oh my god, written as though pronounced with a heavy influence of extra Rs. It's meant to imitate the sound of someone speaking through a retainer.">ERMAHGERD</dfn>
-
-A proper grid is what we always wanted, no ... _needed_ to build websites with a solid, unbreakable structure. And that's why I used it in this theme. I call this feature a "scaffold" because none of the _content_ is laid out on this grid. Only the main _structure_: consisting of the `header`, `footer`, `main`, `aside`, and `footer`. As you can tell by this quote from the [W3C](https://www.w3.org/TR/css-grid-1/) on the candidate recommendation itself, Grid is the perfect tool for the job:
-
-> ##### CSS Grid Layout Module
->
-> This CSS module defines a two-dimensional grid-based layout system, optimized for user interface design. In the grid layout model, the children of a grid container can be positioned into arbitrary slots in a predefined flexible or fixed-size layout grid.
->
-> — _W3C_
-
-CSS Grid is a total game changer, IMHO. Compared to the bottomless pit of despair that is the old way, the new way of building a site structure can be done in as little as 5 lines of CSS. Of course, it always takes more than that, but not much. I mean this is really the meat of the deal:
-
-```css
-.grid-container {
-  display: grid;
-  grid-template-columns: repeat(6, 1fr);
-  grid-template-rows: repeat(3, auto);
-}
-```
-
-#### What an amazing time to be a web developer. Anyway, I hope you enjoy this "feature" that you'll probably never notice or even see. Maybe that's the best part of a good user interface – the hidden stuff that just works.
-
-[^1]: The original article cited here is now updated and maintained by the staff over at CSS-Tricks. Bookmark their version if you want to dive in and learn about CSS Grid: [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
