@@ -1,12 +1,13 @@
 ---
-title: A Project Portfolio To Grow
-description: "Give your projects a place to live online."
-author: "The R Markdown Team @RStudio"
+title: Career
+description: |
+  Some of the places I have worked.
+author: "Lee McCoy"
 show_post_thumbnail: true
 show_author_byline: true
 show_post_date: false
 # for listing page layout
-layout: list-grid # list, list-sidebar, list-grid
+layout: list # list, list-sidebar, list-grid
 
 # for list-sidebar layout
 sidebar: 
@@ -15,7 +16,7 @@ sidebar:
     Projects can be anything!
     Check out the _index.md file in the /project folder 
     to edit this content.
-  author: "The R Markdown Team @RStudio"
+  author: "Lee McCoy"
   text_link_label: ""
   text_link_url: ""
   show_sidebar_adunit: false # show ad container
@@ -28,7 +29,7 @@ cascade:
   # for single-sidebar layout only
   sidebar:
     text_link_label: View all projects
-    text_link_url: /project/
+    text_link_url: /career/
     show_sidebar_adunit: false # show ad container
 ---
 
