@@ -2,7 +2,8 @@
 title: "{{ replace .Name "-" " " | title }}"
 subtitle: ""
 excerpt: ""
-date: {{ .Date }}
+#date: {{ .Date }}
+date: ""
 author: ""
 draft: true
 series:

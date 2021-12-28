@@ -8,24 +8,9 @@ draft: false
 tags:
 - hugo-site
 categories:
-- Theme Features
-- R
-- package
 # layout options: single or single-sidebar
-layout: single-sidebar
+layout: single
 links:
-- icon: door-open
-  icon_pack: fas
-  name: website
-  url: https://allisonhorst.github.io/palmerpenguins/
-- icon: github
-  icon_pack: fab
-  name: code
-  url: https://github.com/allisonhorst/palmerpenguins/
-- icon: newspaper
-  icon_pack: far
-  name: Blog post
-  url: https://education.rstudio.com/blog/2020/07/palmerpenguins-cran/
 ---
 
 {{< figure src="oysteraquaculture.png" alt="Oyster aquaculture ecology" caption="Some of the organisms that impact and are impacted by oyster aquaculture. Invasive species (*Zostera japonica*, *Ocenebra inornata*), pest species (*Neotrypaea californiensis*,*Upogebia pugettensis*) , commercially important species (Salmon, Crab), and protected species (Salmon, *Zostera marina*)." >}}
@@ -45,4 +30,8 @@ Primary duties included:
 
 
 ---
+**2005-2014**
 
+Hatfield Marine Science Center
+2030 SE Marine Science Drive
+Newport, OR 97365

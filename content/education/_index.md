@@ -1,8 +1,8 @@
 ---
-title: Career
+title: Education
 description: |
-  Some of the places I have worked.
-author: "Its a me!"
+  Places I received my education.
+author: ""
 show_post_thumbnail: true
 show_author_byline: false
 show_post_date: false

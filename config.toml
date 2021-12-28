@@ -28,7 +28,7 @@ enableEmoji = true
     style = "github"
     
 [params]
-  orgName = "RStudio"
+  orgName = ""
   orgLocal = "Hamilton, MA"
   description = "Where does this show up? config.toml, description"
   favicon = "/img/favicon.ico"
@@ -110,6 +110,11 @@ enableEmoji = true
     title = "Career"
     url = "/career/"
     weight = 2
+  [[menu.header]]
+    name = "Education"
+    title = "Education"
+    url = "/education/"
+    weight = 3  
     
   # Configure footer  
   [[menu.footer]]

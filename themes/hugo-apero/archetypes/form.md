@@ -2,7 +2,8 @@
 title: {{ replace .Name "-" " " | title }}
 name: {{ replace .Name "-" " " | title }} Form
 description:
-date: {{ .Date }}
+#date: {{ .Date }}
+date: ""
 draft: true
 url: {{ replace .Name "-" " " | lower }}
 type: form
